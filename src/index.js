@@ -1,2 +1,1 @@
-export { HomeScreen } from './fragments';
-export { DetailsScreen } from './fragments';
+export { App } from './features/main';
